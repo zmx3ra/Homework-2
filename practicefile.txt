@@ -1,0 +1,1 @@
+This is me practicing with files in git bash like we did in class. This is the file I am going to push to my Homework 2 directory.
