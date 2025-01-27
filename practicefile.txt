@@ -1,2 +1,4 @@
 This is me practicing with files in git bash like we did in class. This is the file I am going to push to my Homework 2 directory.
 This is a change I am making!
+
+In practicing, I used the git status function, the git log function, and the git diff functions in the terminal to practice. 
